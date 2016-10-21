@@ -1,5 +1,11 @@
+<?php
+/*
+Template Name: Articles
+*/
+?>
 <?php get_header(); ?>
 <?php include("navbar.php"); ?>
+
     <div class="main center-block" alt="Responsive image">
         <img src="<?php echo get_template_directory_uri(); ?>/images/.png" width="100%" height="auto" alt="" />
     </div>

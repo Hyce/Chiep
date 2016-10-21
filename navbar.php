@@ -10,14 +10,14 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand  page-scroll" href="#"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" width="" height="" alt="" /></a>
+                <a class="navbar-brand  page-scroll" href=""><img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" width="" height="" alt="" /></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right ">
                     <li>
-                        <a href="#" class="animated jello  page-scroll">ACCUEIL</a>
+                        <a href="" class="animated jello  page-scroll">ACCUEIL</a>
                     </li>
                     <li>
                         <a href="#lang" class="animated jello  page-scroll">E-TOILETTES</a>
@@ -26,7 +26,7 @@
                         <a href="#" class="animated jello  page-scroll">PAPIER TOILETTE</a>
                     </li>
                     <li>
-                        <a href="contact.php" class="animated jello  page-scroll">CONTACT</a>
+                        <a href="contact" class="animated jello  page-scroll">CONTACT</a>
                     </li>
                 </ul>
             </div>
