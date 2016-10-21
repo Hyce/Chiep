@@ -1,0 +1,231 @@
+/*
+Theme Name : Chie Potelé
+*/
+@font-face {
+  font-family: 'ac';
+  src: url("/fonts/a1c.ttf");
+}
+
+@font-face {
+  font-family: 'yep';
+  src: url("/fonts/yep.otf");
+}
+
+#header {
+  background: #000000 !important;
+  padding: 0 0 50px 0 !important;
+  color: white;
+}
+
+.navbar-brand {
+  color: #ad2318 !important;
+  margin-left: 15% !important;
+  font-family: "ac";
+  font-size: 30px;
+  font-style: none;
+}
+
+.main {
+  height: auto;
+  background-color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #ad2318;
+  font-family: "ac";
+  margin-right: 10px;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #DEDEDE !important;
+  background-color: #24546E !important;
+  border-radius: 5px;
+}
+
+.container-fluid {
+  background-color: #FFFFFF;
+  color: #ad2318;
+}
+
+.container p {
+  color: #ffffff;
+  font-size: 2.5em;
+  font-weight: 600;
+}
+
+
+#services {
+  padding-top: 20px;
+}
+
+.navbar {
+  padding: 0px !important;
+}
+
+.navbar-default {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.btn-warning {
+  margin-top: 20px;
+  text-decoration: none;
+  border: 0;
+  color: #000000;
+  background-color: #f3d160 !important;
+}
+
+.btn-warning:hover {
+  color: #f3d160;
+  border: 0;
+}
+
+.small {
+  width: 10%;
+  height: 3px;
+  background-color: #818181;
+  border: none;
+}
+.rendu {
+  color: #FFFFFF !important;
+  background-size: cover;
+  background-image: url("http://localhost:8888/ChiePotele/wp-content/uploads/2016/10/backserv.png");
+  height: 510px;
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.contain {
+  vertical-align: center;
+}
+
+
+.contain h3 {
+  font-family: "yep";
+}
+
+.langages {
+  vertical-align: middle;
+}
+
+.langages img {
+  margin: 0 auto;
+}
+
+.langages p {
+  color: #000000 !important;
+  font-family: "yep";
+}
+
+.contain .row img {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.last {
+  background: #e5e5e5;
+}
+
+.last .inf {
+  background: #ffffff;
+  padding-bottom: 3px;
+  margin-bottom: 20px;
+}
+
+.last .noir {
+  background: #000000;
+  height: 200px;
+  width: 100%;
+}
+
+.last .marg {
+  margin-left: 19%;
+}
+
+.amazin {
+  background: #eeeeee;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.amazin .noir {
+  height: 150px;
+  width: 150px;
+  border-radius: 75px;
+  background: #000000;
+  text-align: center;
+  margin: auto;
+}
+
+.amazin .legros {
+  padding-bottom: 50px;
+}
+
+.soc {
+  text-align: center;
+  margin: 2px;
+  padding-bottom: 29px;
+}
+
+.addo {
+  display: none;
+  width: 100%;
+  padding: 200px 0;
+  background: url(/img/code.jpg) no-repeat bottom center scroll;
+  background-color: #000000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.sponso {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.footer {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.footer input {
+  height: 40px;
+  margin-top: 30px !important;
+}
+
+.footer input, .footer textarea {
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: solid;
+  margin-top: 20px;
+}
+
+.footer .send {
+  height: 50px;
+  background-color: #f3d160;
+  margin-top: 5px;
+}
+
+.footer .page {
+  background-color: #ffffff !important;
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.footer .page img {
+  margin-left: 10%px;
+  margin-right: 10%px;
+}
+footer{
+  width:100%;
+  height: 100px;
+  background: #8d8d8d;
+}
