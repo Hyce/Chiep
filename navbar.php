@@ -20,10 +20,10 @@
                         <a href="" class="animated jello  page-scroll">ACCUEIL</a>
                     </li>
                     <li>
-                        <a href="#lang" class="animated jello  page-scroll">E-TOILETTES</a>
+                        <a href="e-toilettes" class="animated jello  page-scroll">E-TOILETTES</a>
                     </li>
                     <li>
-                        <a href="#" class="animated jello  page-scroll">PAPIER TOILETTE</a>
+                        <a href="papiers-toilettes" class="animated jello  page-scroll">PAPIER TOILETTE</a>
                     </li>
                     <li>
                         <a href="contact" class="animated jello  page-scroll">CONTACT</a>
